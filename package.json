@@ -1,0 +1,26 @@
+{
+  "name": "jimp-watermark",
+  "version": "1.0.0",
+  "description": "watermark with jimp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chattavat-v/jimp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chattavat-v/jimp/issues"
+  },
+  "homepage": "https://github.com/chattavat-v/jimp#readme",
+  "dependencies": {
+    "jimp": "^0.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
